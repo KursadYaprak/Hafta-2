@@ -1,0 +1,1 @@
+Bu program ile bir şirketteki çalışanın maaşı, çalışma saatleri, ek mesaisi, yıl olarak tecrübesi parametreleri dahilinde vergiler, ek ücretler hesaplanarak tüm bilgileri ekrana yazdırılıyor.
